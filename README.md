@@ -4,7 +4,7 @@ Hi 👋 My name is Samandar
 Backend Developer
 -----------------
 
-* 🌍  I'm based in Uzbekistan Anywhere
+* 🌍  I'm based in Uzbekistan
 * ✉️  You can contact me at [asamandar235@gmail.com](mailto:asamandar235@gmail.com)
 
 ### Skills
